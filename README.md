@@ -1,16 +1,33 @@
-## Hi there 👋
+##👋 Salut, moi c’est Clément !
 
-<!--
-**Hazbraaaa/Hazbraaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Développeur Fullstack / Backend** | 🚀 **Passionné par l'innovation et le code propre**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 À propos de moi
+
+- 🎓 Futur Diplômé en Conception Développement d'Applications à Ada Tech School  
+- 💻 Spécialisé en Dev Fullstack  
+- 🌱 J’apprends actuellement le PHP et Java  
+- 🛠️ Je travaille principalement avec :  
+  ![Langages](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,git,postgresql)
+- 🔍 Je suis à la recherche d'une alternance à partir de Septembre
+
+---
+
+## 🤝 Me contacter
+
+- 📧 [tonemail@email.com](mailto:tonemail@email.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tonprofil)  
+- 🌍 [Portfolio / site perso](https://tonsite.com)
+
+---
+
+> ✨ *“Le meilleur code est celui que l’on n’a pas besoin d’expliquer.”*  
+> — [Ton nom ou une citation inspirante]
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazbraaaa&show_icons=true&theme=tokyonight)
+
+
