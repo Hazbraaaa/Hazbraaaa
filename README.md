@@ -1,4 +1,4 @@
-##👋 Salut, moi c’est Clément !
+## 👋 Salut, moi c’est Clément !
 
 💼 **Développeur Fullstack / Backend** | 🚀 **Passionné par l'innovation et le code propre**
 
@@ -17,14 +17,9 @@
 
 ## 🤝 Me contacter
 
-- 📧 [tonemail@email.com](mailto:tonemail@email.com)  
+- 📧 hazera.c@gmail.com(mailto:hazera.c@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tonprofil)  
 - 🌍 [Portfolio / site perso](https://tonsite.com)
-
----
-
-> ✨ *“Le meilleur code est celui que l’on n’a pas besoin d’expliquer.”*  
-> — [Ton nom ou une citation inspirante]
 
 ---
 
