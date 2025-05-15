@@ -21,6 +21,6 @@
 
 - 📧 [Email](mailto:hazera.c@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/clement-hazera-fullstackdev/)  
-- 🌍 [Portfolio](https://hazbraaaa.github.io/site_portfolio/)
+- 🌍 [Portfolio](https://hazbraaaa.github.io/PROJET_PERSO_portfolio/)
 
 
