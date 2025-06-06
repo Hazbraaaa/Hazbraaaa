@@ -8,10 +8,10 @@
 
 - 🎓 Futur Diplômé en Conception Développement d'Applications à Ada Tech School  
 - 💻 Spécialisé en Dev Fullstack  
-- 🌱 J’apprends actuellement le PHP et Java  
+- 🌱 J’apprends actuellement Java et Python  
 - 🛠️ Je travaille principalement avec :
   
-  ![Langages](https://skillicons.dev/icons?i=git,html,css,js,ts,c,python,php,java,mysql)
+  ![Langages](https://skillicons.dev/icons?i=git,html,css,js,python,java,mysql,postgresql)
   
 - 🔍 Je suis à la recherche d'une alternance à partir de Septembre 2025
 
