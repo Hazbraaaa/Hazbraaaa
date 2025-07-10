@@ -13,7 +13,9 @@
   
   ![Langages](https://skillicons.dev/icons?i=git,html,css,js,python,java,php,mysql,postgresql)
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazbraaaa&show_icons=true&count_private=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazbraaaa&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
   
 - 🔍 Je suis à la recherche d'une alternance à partir de Septembre 2025
