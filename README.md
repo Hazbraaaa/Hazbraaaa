@@ -11,7 +11,7 @@
 - 🌱 J’apprends actuellement à utiliser les frameworks, et créer de bonnes architectures  
 - 🛠️ Je travaille principalement avec :
   
-  ![Langages](https://skillicons.dev/icons?i=git,html,css,js,python,java,php,mysql,postgresql)
+  ![Langages](https://skillicons.dev/icons?i=git,html,css,js,python,java,kotlin,php,mysql,postgresql)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazbraaaa&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
