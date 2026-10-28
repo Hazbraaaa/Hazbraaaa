@@ -17,6 +17,6 @@
 
 ## Me contacter
 
-- 📧 [Email](mailto:hazera.c@gmail.com)
+- 📧 [Email](mailto:c.hazera@proton.me)
 - 💼 [LinkedIn](https://www.linkedin.com/in/clement-hazera-fullstackdev/)
 
